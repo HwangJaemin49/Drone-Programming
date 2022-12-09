@@ -15,3 +15,4 @@ Python 최신버전 설치 후 pycharm 최신버전 설치 -> pycharm 실행 후
 
 
 ### 2) [Face Tracking](https://github.com/GoalToUs/Drone-Programming/tree/main/Face%20Tracking)
+OpenCV에서 기본적으로 제공하는 데이터셋을 이용하여 얼굴 인식이 가능하고 얼굴이 이동함에 따라 드론도 위치를 이동한다.
