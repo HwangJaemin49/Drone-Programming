@@ -10,5 +10,5 @@ Python 최신버전 설치 후 pycharm 최신버전 설치 -> pycharm 실행 후
 드론 전원을 키고 드론 불빛이 주황색으로 깜박거리면 노트북과 tello 와이파이와 연결, 이후 프로그램 실행하면 드론이 동작함.
 
 ## 1. 코드 설명
-### 1) Object Detection
-### 2) Face Tracking
+### 1) Object Detection (https://github.com/GoalToUs/Drone-Programming/tree/main/Object%20Detection)
+### 2) Face Tracking (https://github.com/GoalToUs/Drone-Programming/tree/main/Face%20Tracking)
