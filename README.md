@@ -11,4 +11,7 @@ Python 최신버전 설치 후 pycharm 최신버전 설치 -> pycharm 실행 후
 
 ## 1. 코드 설명
 ### 1) [Object Detection](https://github.com/GoalToUs/Drone-Programming/tree/main/Object%20Detection)
+물체 인식을 위한 데이터로는 모델 구조와 가중치 값을 저장해둔 pb 파일을 사용한다. 이 데이터를 바탕으로 인식된 물체의 이름, 정확도를 드론으로 촬영하는 화면에 적용시킨다. 
+
+
 ### 2) [Face Tracking](https://github.com/GoalToUs/Drone-Programming/tree/main/Face%20Tracking)
