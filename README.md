@@ -1,5 +1,12 @@
 # Python과 OpenCV를 이용한 Drone Programming ✈︎
 
+## ✨ Developer
+| <img src="https://avatars.githubusercontent.com/u/97292379?v=4" width="200" height="200"/> |
+| :---: |
+| <div align = "center"><b>재민</b></div> |
+| [@HwangJaemin49](https://github.com/HwangJaemin49) |
+| **자동 추적 드론** 구현|
+
 ## 0. 실행 환경 세팅🛠
 ### 1) Python 설치
 ### 2) Pycharm 설치
